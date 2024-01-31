@@ -1,6 +1,8 @@
 # Stock-Model-Predictions
 Written by: Anthony Krenek
 Predictions made by: Anthony Krenek
+
+
 ** IMPORTANT DO NOT USE AS FINANCIAL ADVICE THESE ARE JUST PREDICTIONS BASED OFF OF DATA AND NOTHING ELSE **
 
 
