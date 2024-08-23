@@ -69,7 +69,7 @@ Using Google Collab made this a lot easier by mounting my drive and storing the 
 
 Setbacks: 
 This took me about a week to get succesful through this I learned many different strategies to program.
-I learned that by mounting my google drive and reading in the files individually worked a lot better than trying to do two in the same program. I was trying to do two stocks at once and one would pass. Then the other would do some weird data manipulation and it was stroing the future data as an ndarray of float type 32. I eventually broke the two stocks into different files and realized the problem. The problem was I was losing my data for one of the stocks in the nd array. This took me over 15+ hours to debug, but I a very glad that I did. 
+I learned that by mounting my google drive and reading in the files individually worked a lot better than trying to do two in the same program. I was trying to do two stocks at once and one would pass. Then the other would do some weird data manipulation and it was stroing the future data as an ndarray of float type 32. I eventually broke the two stocks into different files and realized the problem. The problem was I was losing my data for one of the stocks in the nd array. This took me over 15+ hours to debug, but I am very glad that I did. 
 
 Takeaways: 
 Being organized with code will save you a ton of time. I am very glad to know that now because I was unorgainzed causing me to spend countless hours on debugging. 
